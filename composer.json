@@ -1,0 +1,21 @@
+{
+    "name": "xiaokang69/composerbag",
+    "description": "test\u001b[D\u001b[D\u001b[D\u001b[D",
+    "type": "l",
+    "require": {
+        "php": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaokang",
+            "email": "66500852@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"Guanguans\\": "src/"
+		}
+	}
+}
